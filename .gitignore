@@ -1,0 +1,9 @@
+**/obj/
+**/obj/**
+**/.vs/
+.vs
+**/node_modules/
+**/.vscode/
+**/bin/
+**/bin/**
+**/packages/**
